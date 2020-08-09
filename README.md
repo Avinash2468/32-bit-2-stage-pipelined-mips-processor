@@ -53,6 +53,8 @@ frequency from 167 Mhz to 1.3 Ghz ( 0.750 ns worst pulse width slack).
 
 ## Architecural Diagram of Processor
 
+![Architectural Diagram of Processor](/model.PNG?raw=true "Title")
+
 ## Main Memory Design
 
 In my processor, I have 3 different sets of memories, a 32 bit register file consisting of 32 registers,
