@@ -4,7 +4,7 @@
 
 ## Instruction currently supported
 
-As per the requirements specified by Saumya Ma’am, I have designed my processor in such a way
+I have designed my processor in such a way
 that it is able to carry out 28 instructions.
 
 - a. ADD
