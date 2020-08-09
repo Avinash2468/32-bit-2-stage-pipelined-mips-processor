@@ -1,7 +1,5 @@
 # MIPS32 Architecture
 
-## Avinash Prabhu 
-
 ## Instruction currently supported
 
 I have designed my processor in such a way
@@ -35,7 +33,7 @@ that it is able to carry out 28 instructions.
 - z. JAL
 - aa. LW
 - bb. SW
--
+
 Here, I have implemented LW and SW instead of LB and SW according to the concepts learnt in
 class. We learnt that the IFU fetches words instead of bytes which is why I implemented LW and
 SW.
